@@ -1,15 +1,15 @@
-# 🍕 The Pizza Hub: Sales & Trends Tracker
+#  The Pizza Hub: Sales & Trends Tracker
 
 This project is a comprehensive **Sales & Trends Dashboard** designed to analyze customer behavior, operational efficiency, and financial health for a pizza business.
 
-### 📂 Data Source Information
+### Data Source Information
 * **Dataset**: Pizza Place Sales url: https://mavenanalytics.io/data-playground/pizza-place-sales
 * **Volume**: Processed transactional data consisting of **499 records** and **25 fields**.
 * **Scope**: A year's worth of sales data including date, time, pizza types, sizes, quantities, and prices.
 
 ---
 
-### 🎯 Project Overview
+###  Project Overview
 This dashboard was developed to answer critical business questions:
 * **Customer Traffic:** How many customers visit daily, and when are the peak hours?
 * **Order Patterns:** How many pizzas are typically purchased, and what are the bestsellers?
@@ -18,7 +18,7 @@ This dashboard was developed to answer critical business questions:
 
 ---
 
-### 💡 Key Business Insights
+###  Key Business Insights
 * **Peak Performance:** Identified peak sales hours, which is vital for effective staff scheduling.
 * **Product Mix:** Quickly visualize which category occupies the largest share of total revenue.
 * **Inventory Focus:** Using the **"Least Selling" bookmark**, items that need promotion or replacement are easily identified.
@@ -42,7 +42,7 @@ This dashboard was developed to answer critical business questions:
 
 ---
 
-### 🛠️ Technical Process (The Workflow)
+###  Technical Process (The Workflow)
 
 #### 1. Data Preparation & ETL
 * **Data Profiling:** Utilized *Column Profile* and *Column Distribution* in Power Query to ensure data integrity and eliminate anomalies.
@@ -59,8 +59,8 @@ This dashboard was developed to answer critical business questions:
 
 ---
 
-### 🎨 Design & Branding
-* 🟡 **Color Palette:** Used warm tones (Yellow, Orange, Deep Orange) to align with the "Pizza" theme.
+###  Design & Branding
+* **Color Palette:** Used warm tones (Yellow, Orange, Deep Orange) to align with the "Pizza" theme.
 * **Finesse:** Adjusted shaded area transparency to **60%** for a cleaner and more readable data presentation.
 
 ---
@@ -71,7 +71,7 @@ This dashboard was developed to answer critical business questions:
 
 ---
 
-### 📬 Contact Me
+###  Contact Me
 * **LinkedIn:** [Jemico Dalangin](https://www.linkedin.com/in/jemico-dalangin-955b60288)
 * **Email:** jemico.dalangin@gmail.com
 * **GitHub Portfolio:** [JCoquillaD](https://github.com/JCoquillaD)
