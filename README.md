@@ -1,10 +1,12 @@
 # 🍕 The Pizza Hub: Sales & Trends Tracker
 
 This project is a comprehensive **Sales & Trends Dashboard** designed to analyze customer behavior, operational efficiency, and financial health for a pizza business.
+
 ### 📂 Data Source Information
 * **Dataset**: Pizza Place Sales url: https://mavenanalytics.io/data-playground/pizza-place-sales
 * **Volume**: Processed transactional data consisting of **499 records** and **25 fields**.
 * **Scope**: A year's worth of sales data including date, time, pizza types, sizes, quantities, and prices.
+
 ---
 
 ### 🎯 Project Overview
@@ -20,6 +22,23 @@ This dashboard was developed to answer critical business questions:
 * **Peak Performance:** Identified peak sales hours, which is vital for effective staff scheduling.
 * **Product Mix:** Quickly visualize which category occupies the largest share of total revenue.
 * **Inventory Focus:** Using the **"Least Selling" bookmark**, items that need promotion or replacement are easily identified.
+
+**Recommended Analysis (Answering Key Questions):**  
+1. **Daily Customers & Peak Hours:**  
+   - Aggregated sales by date to determine daily customer counts.  
+   - Identified peak hours during **lunch (11AM–1PM)** and **dinner (6PM–8PM)** periods.  
+
+2. **Pizzas per Order & Bestsellers:**  
+   - Calculated average pizzas per transaction to understand ordering behavior.  
+   - Top-selling pizzas identified using total quantity sold, e.g., *Pepperoni*, *Margherita*, and *Hawaiian*.  
+
+3. **Revenue & Seasonality:**  
+   - Total revenue computed for the year using `Quantity * Price`.  
+   - Observed seasonal trends with higher sales during **weekends** and **holiday months**.  
+
+4. **Menu Optimization & Promotions:**  
+   - Identified underperforming pizzas for potential removal or promotion using the **Least Selling Pizza** view.  
+   - Items with consistent low sales highlighted opportunities for targeted promotions.
 
 ---
 
