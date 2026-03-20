@@ -7,6 +7,11 @@ This project is a comprehensive **Sales & Trends Dashboard** designed to analyze
 * **Volume**: Processed transactional data consisting of **499 records** and **25 fields**.
 * **Scope**: A year's worth of sales data including date, time, pizza types, sizes, quantities, and prices.
 
+##  Live Interactive Dashboard
+I've published the interactive version of this report to the Power BI Cloud. You can explore the data and filters here:
+
+👉 [**View Live Project on Power BI Service**](https://app.powerbi.com/view?r=eyJrIjoiOGE3ZDliNjQtMjZjZC00MzkwLTg4MWYtYjhhYmQxZTk5OThmIiwidCI6Ijg2Yzk5YjhjLTc1MzMtNDVlMC1hYmUxLWFmZDE2NTBiYzdjOCIsImMiOjEwfQ%3D%3D)
+
 ---
 
 ###  Project Overview
